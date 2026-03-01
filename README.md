@@ -15,7 +15,7 @@
 
 ---
 
-### 🚀 Active Engineering Projects
+### 🚀 Active Projects
 
 * **🍱 Le Katsu** – An inventory system using **SSA** and **LSTM models** for advanced sales forecasting.
 * **🛡️ SafePoint (IRS)** – A full-stack Incident Reporting System for community safety management.
@@ -29,7 +29,7 @@
 
 ---
 
-### 📈 System Vitality 
+### 📈 System Progress
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Prince-Rim&theme=tokyonight&area=true&hide_border=true&from=2025-12-01&to=2025-12-31" width="100%" />
 </p>
