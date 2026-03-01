@@ -31,7 +31,7 @@
 
 ### 📈 System Vitality
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Prince-Rim&show_icons=true&theme=radical&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Prince-Rim&theme=tokyonight&hide_border=true" width="100%" />
 </p>
 
 <div align="center">
