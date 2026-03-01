@@ -29,10 +29,6 @@
 
 ---
 
-### 📈 System Progress
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Prince-Rim&theme=tokyonight&area=true&hide_border=true&from=2025-12-01&to=2025-12-31" width="100%" />
-</p>
 
 <div align="center">
   <sub>Last Updated: March 2026 | Located in Quezon City, PH</sub>
