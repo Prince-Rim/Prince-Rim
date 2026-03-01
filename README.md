@@ -29,9 +29,9 @@
 
 ---
 
-### 📈 System Vitality
+### 📈 System Vitality 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Prince-Rim&theme=tokyonight&hide_border=true" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Prince-Rim&theme=tokyonight&area=true&hide_border=true&from=2025-12-01&to=2025-12-31" width="100%" />
 </p>
 
 <div align="center">
