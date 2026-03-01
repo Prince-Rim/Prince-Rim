@@ -6,7 +6,7 @@
 
 ### 💻 Technology Stack
 
-| ⚡ Development | 🗄️ Data & API | 🎨 Web Development |
+| ⚡ Language | 🗄️ Data & API | 🎨 Web Development |
 | :--- | :--- | :--- |
 | ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) | ![SQL](https://img.shields.io/badge/SQL-00758F?style=for-the-badge&logo=mysql&logoColor=white) | ![React](https://img.shields.io/badge/React-20232a?style=for-the-badge&logo=react&logoColor=%2361DAFB) |
 | ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white) | ![REST API](https://img.shields.io/badge/REST_API-0052FF?style=for-the-badge&logo=google-cloud&logoColor=white) | ![Tailwind](https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white) |
