@@ -18,9 +18,16 @@
 
 ---
 
+### 📊 Contribution Activity
+<p align="left">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Prince-Rim&theme=tokyo-night&area=true&hide_border=true" width="100%" alt="Prince-Rim's activity graph" />
+</p>
+
+---
+
 ### 🚀 Active Projects
 
-* **🍱 Le Katsu** – An inventory system applying **SSA** and **LSTM models** for sales forecasting.
+* **🍱 Le Katsu** – An inventory system applying **SSA** and **LSTM models** for advanced sales forecasting.
 * **🛡️ SafePoint (IRS)** – A full-stack Incident Reporting System for community safety management.
 
 ---
@@ -33,6 +40,22 @@
 
 ---
 
+### 🌌 Final Stats & Connect
+<p align="left">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Prince-Rim&theme=tokyonight" height="150" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Prince-Rim&theme=tokyonight" height="150" />
+</p>
+
+### 🤝 Let's Collaborate!
+<p align="left">
+<a href="mailto:azucenajustinallen@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+<a href="https://www.linkedin.com/in/justin-allen-azucena-1093b2299/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+</p>
+
+---
+
 <div align="center">
-  <sub>Last Updated: April 2, 2026 | Located in Quezon City, PH</sub>
+  <sub>Last Updated: April 2026 | Based in Quezon City, PH</sub>
+  <br/>
+  <img src="https://komarev.com/ghpvc/?username=Prince-Rim&color=00D1FF" alt="Profile views" />
 </div>
