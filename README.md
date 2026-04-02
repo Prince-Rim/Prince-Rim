@@ -1,7 +1,7 @@
 # 🌌 Justin Allen | @Prince-Rim
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=22&pause=1000&color=2088FF&center=false&vCenter=true&width=500&lines=~BSIT+Student+@+STI+College+Novaliches;~Exploring+AI+Forecasting+%26+LSTM;~Full-Stack+Development+Student;~Cybersecurity+Learner;~Currently+Reading:+Novels+and+Manga" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=22&pause=1000&color=00D1FF&center=false&vCenter=true&width=500&lines=~BSIT+Student+@+STI+College+Novaliches;~Exploring+AI+Forecasting+%26+LSTM;~Full-Stack+Development+Student;~Cybersecurity+Learner;~Currently+Reading:+Novels+and+Manga" alt="Typing SVG" />
 </a>
 
 ---
