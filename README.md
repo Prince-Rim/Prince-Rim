@@ -42,8 +42,9 @@
 
 ### 🌌 Final Stats & Connect
 <p align="left">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Prince-Rim&theme=tokyonight" height="150" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Prince-Rim&theme=tokyonight" height="150" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Prince-Rim&theme=tokyonight" height="150" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Prince-Rim&theme=tokyonight" height="150" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Prince-Rim&theme=tokyonight" height="150" />
 </p>
 
 ### 🤝 Let's Collaborate!
