@@ -1,6 +1,8 @@
 # 🌌 Justin Allen | @Prince-Rim
-> **BSIT Student @ STI College Novaliches** 🎓  
-> Focusing on **AI Forecasting**, **Cybersecurity**, and **Full-Stack Development**.
+
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=22&pause=1000&color=2088FF&center=false&vCenter=true&width=500&lines=BSIT+Student+@+STI+College+Novaliches;AI+Forecasting+%26+LSTM+Experimenting;Learning+Cybersecurity;Full-Stack+Developer; alt="Typing SVG" />
+</a>
 
 ---
 
@@ -23,12 +25,12 @@
 ---
 
 ### 🔍 Current Focus & Interests
+
 * 🛡️ **Cybersecurity:** Analyzing attack classifications and digital hygiene.
-* 📖 **Literature:** Reading **Webnovels** (Current: *Childhood Friend of the Zenith*) and various **series**.
-* 🎮 **Gaming:** Playing *Wuthering Waves*, *Genshin Impact*,  *Honkai Star Rail*,and *League of Legends*.
+* 📖 **Literature:** Avid reader of Webnovels and light novels.
+* 🎮 **Gaming:** Enjoying *Wuthering Waves*, *Genshin Impact*, *Honkai Star Rail*, and *League of Legends*.
 
 ---
-
 
 <div align="center">
   <sub>Last Updated: March 2026 | Located in Quezon City, PH</sub>
