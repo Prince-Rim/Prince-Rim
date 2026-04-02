@@ -1,7 +1,7 @@
 # 🌌 Justin Allen | @Prince-Rim
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=22&pause=1000&color=2088FF&center=false&vCenter=true&width=500&lines=BSIT+Student+@+STI+College+Novaliches;AI+Forecasting+%26+LSTM+Experimenting;Learning+Cybersecurity;Full-Stack+Developer; alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=22&pause=1000&color=2088FF&center=false&vCenter=true&width=500&lines=~BSIT+Student+@+STI+College+Novaliches;~Exploring+AI+Forecasting+%26+LSTM;~Full-Stack+Development+Student;~Cybersecurity+Learner;~Currently+Reading:+Novels+and+Manga" alt="Typing SVG" />
 </a>
 
 ---
@@ -19,19 +19,19 @@
 
 ### 🚀 Active Projects
 
-* **🍱 Le Katsu** – An inventory system using **SSA** and **LSTM models** for advanced sales forecasting.
+* **🍱 Le Katsu** – An inventory system applying **SSA** and **LSTM models** for sales forecasting.
 * **🛡️ SafePoint (IRS)** – A full-stack Incident Reporting System for community safety management.
 
 ---
 
 ### 🔍 Current Focus & Interests
 
-* 🛡️ **Cybersecurity:** Analyzing attack classifications and digital hygiene.
+* 🛡️ **Cybersecurity:** Learning attack classifications and digital hygiene.
 * 📖 **Literature:** Avid reader of Webnovels and light novels.
 * 🎮 **Gaming:** Enjoying *Wuthering Waves*, *Genshin Impact*, *Honkai Star Rail*, and *League of Legends*.
 
 ---
 
 <div align="center">
-  <sub>Last Updated: March 2026 | Located in Quezon City, PH</sub>
+  <sub>Last Updated: April 2026 | Located in Quezon City, PH</sub>
 </div>
