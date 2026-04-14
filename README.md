@@ -27,7 +27,7 @@
 
 ### 🚀 Active Projects
 
-* **🍱 Le Katsu** – An inventory system applying **SSA** and **LSTM models** for advanced sales forecasting.
+* **🍱 Le Katsu MNL** – An inventory system applying **SSA** and **LSTM models** for advanced sales forecasting.
 * **🛡️ SafePoint (IRS)** – A full-stack Incident Reporting System for community safety management.
 
 ---
