@@ -1,7 +1,7 @@
 # 🌌 Justin Allen | @Prince-Rim
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=22&pause=1000&color=00D1FF&center=false&vCenter=true&width=500&lines=~BSIT+Student+@+STI+College+Novaliches;~Exploring+AI+Forecasting+%26+LSTM;~Full-Stack+Development+Student;~Cybersecurity+Learner;~Currently+Reading:+Novels+and+Manga" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=22&pause=1000&color=FF2D20&center=false&vCenter=true&width=500&lines=~BSIT+Student+@+STI+College+Novaliches;~Exploring+AI+Forecasting+%26+LSTM;~Full-Stack+Development+Student;~Cybersecurity+Learner;~Currently+Reading:+Novels+and+Manga" alt="Typing SVG" />
 </a>
 
 ---
@@ -20,31 +20,35 @@
 
 ### 📊 Contribution Activity
 <p align="left">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Prince-Rim&theme=tokyo-night&area=true&hide_border=true" width="100%" alt="Prince-Rim's activity graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Prince-Rim&bg_color=0D1117&color=FF2D20&line=FF2D20&point=FFFFFF&area=true&hide_border=true" width="100%" alt="Prince-Rim's activity graph" />
 </p>
 
 ---
 
 ### 🚀 Active Projects
 
-* **🍱 Le Katsu MNL** – An inventory system applying **SSA** and **LSTM models** for advanced sales forecasting.
-* **🛡️ SafePoint (IRS)** – A full-stack Incident Reporting System for community safety management.
+* **🍱 Le Katsu MNL** – An inventory management and sales forecasting system for franchise operations, applying **SSA** and **LSTM models** for advanced analytics.
+* **🛡️ SafePoint (IRS)** – A full-stack Incident Reporting System designed for responsive community safety management.
 
 ---
 
 ### 🔍 Current Focus & Interests
 
-* 🛡️ **Cybersecurity:** Learning attack classifications and digital hygiene.
-* 📖 **Literature:** Avid reader of Webnovels and light novels.
-* 🎮 **Gaming:** Enjoying *Wuthering Waves*, *Genshin Impact*, *Honkai Star Rail*, and *League of Legends*.
+* 🛡️ **Cybersecurity:** Learning deep dive attack classifications, vulnerabilities, and digital defense hygiene.
+* 📖 **Literature:** Dedicated reader of webnovels, light novels, and manhwa.
+* 🎮 **Gaming:** Diving into mechanics and build-crafting in *Wuthering Waves*, *Genshin Impact*, *Honkai: Star Rail*, and *League of Legends*.
 
 ---
 
 ### 🌌 Final Stats & Connect
 <p align="left">
+
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Prince-Rim&theme=tokyonight" height="150" />
+
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Prince-Rim&theme=tokyonight" height="150" />
+
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Prince-Rim&theme=tokyonight" height="150" />
+
 </p>
 
 ### 🤝 Let's Collaborate!
@@ -56,7 +60,7 @@
 ---
 
 <div align="center">
-  <sub>Last Updated: April 2026 | Based in Quezon City, PH</sub>
+  <sub>Last Updated: May 2026 | Based in Quezon City, PH</sub>
   <br/>
-  <img src="https://komarev.com/ghpvc/?username=Prince-Rim&color=00D1FF" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=Prince-Rim&color=FF2D20" alt="Profile views" />
 </div>
