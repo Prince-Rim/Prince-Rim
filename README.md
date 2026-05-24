@@ -1,10 +1,8 @@
 # 🌌 Justin Allen | @Prince-Rim
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=22&pause=1000&color=FF2D20&center=false&vCenter=true&width=500&lines=~BSIT+Student+@+STI+College+Novaliches;~Exploring+AI+Forecasting+%26+LSTM;~Full-Stack+Development+Student;~Cybersecurity+Learner;~Currently+Reading:+Novels+and+Manga" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1000&color=FF4D4D&center=false&vCenter=true&width=600&lines=%3E+const+student+%3D+'BSIT+@+STI+Novaliches+College';%3E+engine.deploy('Full-Stack+Systems');%3E+model.train('SSA+%2B+LSTM+Forecasting');%3E+sec.audit('Attack+Classifications');%3E+sys.read('Light+Novels+%26+Manhwa');" alt="Typing SVG" />
 </a>
-
----
 
 ### 💻 Technology Stack
 
