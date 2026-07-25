@@ -1,7 +1,7 @@
 # 🌌 Justin Allen | @Prince-Rim
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1000&color=FF4D4D&center=false&vCenter=true&width=600&lines=%3E+const+student+%3D+'BSIT+@+STI+Novaliches+College';%3E+engine.deploy('Full-Stack+Systems');%3E+model.train('SSA+%2B+LSTM+Forecasting');%3E+sec.audit('Cyber+Security');%3E+sys.read('Light+Novels+%26+Manhwa');" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1000&color=FF4D4D&center=false&vCenter=true&width=600&lines=%3E+const+student+%3D+'BSIT+%40+STI+Novaliches+College'%3B%3E+engine.deploy('Full-Stack+Systems')%3B%3E+model.train('SSA+%2B+LSTM+Forecasting')%3B%3E+sec.audit('Cyber+Security')%3B%3E+sys.read('Light+Novels+%26+Manhwa')%3B" alt="Typing SVG" />
 </a>
 
 ### 💻 Technology Stack
@@ -40,13 +40,10 @@
 
 ### 🌌 Final Stats & Connect
 <p align="left">
-
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Prince-Rim&theme=tokyonight" height="150" />
-
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Prince-Rim&theme=tokyonight" height="150" />
-
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Prince-Rim&theme=tokyonight" height="150" />
-
+  <img src="https://img.shields.io/github/followers/Prince-Rim?label=Followers&style=for-the-badge&color=FF2D20&logo=github" height="35" />
+  <img src="https://img.shields.io/github/stars/Prince-Rim?label=Stars&style=for-the-badge&color=512BD4&logo=github" height="35" />
+  <br/><br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Prince-Rim&theme=tokyonight" height="150" alt="GitHub Streak" />
 </p>
 
 ### 🤝 Let's Collaborate!
