@@ -38,7 +38,7 @@
 
 ---
 
-### 🌌 Final Stats & Connect
+### 🌌 Stats & Social
 <p align="left">
   <img src="https://img.shields.io/github/followers/Prince-Rim?label=Followers&style=for-the-badge&color=FF2D20&logo=github" height="35" />
   <img src="https://img.shields.io/github/stars/Prince-Rim?label=Stars&style=for-the-badge&color=512BD4&logo=github" height="35" />
