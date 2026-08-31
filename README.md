@@ -18,7 +18,7 @@
 
 ### 📊 Contribution Activity
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Prince-Rim&show_icons=true&theme=tokyonight&hide_border=true&v=1" width="100%" alt="Prince-Rim's activity stats" />
+  <img src="https://raw.githubusercontent.com/Prince-Rim/Prince-Rim/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Prince-Rim's Snake Contribution Animation" />
 </p>
 
 ---
