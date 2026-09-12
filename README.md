@@ -56,7 +56,7 @@
 ---
 
 <div align="center">
-  <sub>Last Updated: September 2026 | Based in Quezon City & Caloocan City, PH</sub>
+  <sub>Last Updated: September 2026 | Based in Quezon City & Caloocan City, PH!</sub>
   <br/>
   <img src="https://komarev.com/ghpvc/?username=Prince-Rim&color=FF2D20" alt="Profile views" />
 </div>
