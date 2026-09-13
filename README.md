@@ -1,4 +1,4 @@
-# 🌌 Justin Allen | @Prince-Rim
+# 🌌 Justin Allen Azucena | @Prince-Rim
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1000&color=FF4D4D&center=false&vCenter=true&width=600&lines=%3E+const+student+%3D+'BSIT+%40+STI+Novaliches+College'%3B%3E+engine.deploy('Full-Stack+Systems')%3B%3E+model.train('SSA+%2B+LSTM+Forecasting')%3B%3E+sec.audit('Cyber+Security')%3B%3E+sys.read('Light+Novels+%26+Manhwa')%3B" alt="Typing SVG" />
