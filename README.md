@@ -34,7 +34,7 @@
 
 * 🛡️ **Cybersecurity:** Learning deep dive attack classifications, vulnerabilities, and digital defense.
 * 📖 **Literature:** Dedicated reader of webnovels, light novels, and manhwa.
-* 🎮 **Gaming:** Diving into mechanics and build-crafting in *Wuthering Waves*, *Genshin Impact*, *Honkai: Star Rail*, and *League of Legends*.
+
 
 ---
 
