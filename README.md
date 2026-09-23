@@ -2,7 +2,7 @@
   <img src="./azucena1-svg.svg" width="100%" alt="Header" />
 </p>
 
-> `>` `building resilient systems and predictive pipelines.`
+> `>` `building resilient and responsive systems.`
 
 
 <a href="https://git.io/typing-svg">
