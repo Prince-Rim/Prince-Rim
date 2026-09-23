@@ -4,13 +4,6 @@
 
 > `>` `building resilient systems and predictive pipelines.`
 
-<p>
-  <img src="https://img.shields.io/badge/C%23-ASP.NET_Core-512BD4?style=flat-square" alt="ASP.NET" />
-  <img src="https://img.shields.io/badge/PHP-Laravel-FF2D20?style=flat-square" alt="Laravel" />
-  <img src="https://img.shields.io/badge/Python-SSA_%2B_LSTM-3776AB?style=flat-square" alt="AI Models" />
-  <img src="https://img.shields.io/badge/DB-PostgreSQL-4169E1?style=flat-square" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/DevOps-Docker-2496ED?style=flat-square" alt="Docker" />
-</p>
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1000&color=FF4D4D&center=false&vCenter=true&width=600&lines=%3E+const+student+%3D+'BSIT+%40+STI+Novaliches+College'%3B%3E+engine.deploy('Full-Stack+Systems')%3B%3E+model.train('SSA+%2B+LSTM+Forecasting')%3B%3E+sec.audit('Cyber+Security')%3B%3E+sys.read('Light+Novels+%26+Manhwa')%3B" alt="Typing SVG" />
