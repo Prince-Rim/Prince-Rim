@@ -23,13 +23,6 @@
 
 ---
 
-###  Active Projects
-
-*  Le Katsu MNL – An inventory management and sales forecasting system for franchise operations, applying **SSA** and **LSTM models** for advanced analytics.
-*  SafePoint (IRS) – A full-stack Incident Reporting System designed for responsive community safety management.
-
----
-
 ###  Current Focus & Interests
 
 *  Cybersecurity: Learning deep dive attack classifications, vulnerabilities, and digital defense.
