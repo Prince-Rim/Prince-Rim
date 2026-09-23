@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./azucena1-svg.svg" width="100%" alt="Header" />
+  <img src="./azucena2-svg.svg" width="100%" alt="Header" />
 </p>
 
 `>` `building resilient and responsive systems.`
