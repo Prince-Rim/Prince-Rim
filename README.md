@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./azucena-svg.svg" width="100%" alt="Header" />
+  <img src="./azucena1-svg.svg" width="100%" alt="Header" />
 </p>
 
 > `>` `building resilient systems and predictive pipelines.` █
