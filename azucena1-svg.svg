@@ -20,7 +20,7 @@
   <!-- Left Text Info -->
   <text x="50" y="70" class="name">Justin Allen</text>
   <text x="50" y="105" class="title">Full-Stack Developer &amp; Systems Builder</text>
-  <text x="50" y="138" class="tags">ASP.NET Core  •  Java  •  SSA + LSTM  •  PostgreSQL</text>
+  <text x="50" y="138" class="tags">ASP.NET Core  •  Java  •  Cybersecurity  •  SQL</text>
 
   <!-- Right Retro Screen Terminal -->
   <rect x="580" y="32" width="220" height="135" class="bezel" />
