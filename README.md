@@ -2,7 +2,7 @@
   <img src="./azucena1-svg.svg" width="100%" alt="Header" />
 </p>
 
-> `>` `building resilient systems and predictive pipelines.` █
+> `>` `building resilient systems and predictive pipelines.`
 
 <p>
   <img src="https://img.shields.io/badge/C%23-ASP.NET_Core-512BD4?style=flat-square" alt="ASP.NET" />
