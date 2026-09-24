@@ -11,42 +11,43 @@
 
 ---
 <p align="center">
-<img src="https://skillicons.dev/icons?i=java,cs,python,js,dotnet,laravel,nodejs,tailwind,postgres,mysql,docker,git,github&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,nodejs,java,cs,dotnet,laravel,python&theme=dark" />
+  <br/>
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,postman,docker,git,github,vscode,visualstudio,wordpress&theme=dark" />
 </p>
 
 ---
 
-###  Contribution Activity
+### Contribution Activity
 <p align="left">
   <img src="https://raw.githubusercontent.com/Prince-Rim/Prince-Rim/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Prince-Rim's Snake Contribution Animation" />
 </p>
 
 ---
 
-###  Current Focus & Interests
+### Current Focus & Interests
 
-*  Cybersecurity: Learning deep dive attack classifications, vulnerabilities, and digital defense.
-*  Literature: Dedicated reader of webnovels, light novels, and manhwa.
+* Cybersecurity: Learning deep dive attack classifications, vulnerabilities, and digital defense.
+* Literature: Dedicated reader of webnovels, light novels, and manhwa.
 
 ---
 
-###  Stats & Social
-<p align="left">
+### Stats & Social
+<p align="center">
   <img src="https://img.shields.io/github/followers/Prince-Rim?label=Followers&style=for-the-badge&color=FF2D20&logo=github" height="35" />
   <img src="https://img.shields.io/github/stars/Prince-Rim?label=Stars&style=for-the-badge&color=512BD4&logo=github" height="35" />
   <br/><br/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Prince-Rim&theme=tokyonight" height="150" alt="GitHub Streak" />
 </p>
 
-###  Let's Collaborate!
-<p align="left">
+### Let's Collaborate!
+<p align="center">
 <a href="mailto:azucenajustinallen@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 <a href="https://www.linkedin.com/in/justin-allen-azucena-1093b2299/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 <a href="https://justinallenazucena.vercel.app/" target="blank"><img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=safari&logoColor=white" alt="Portfolio" /></a>
-
-  
-PS: Inquiries and questions are always welcome, I'll try my best to answer in time when I'm available.
 </p>
+  
+<p align="center">PS: Inquiries and questions are always welcome, I'll try my best to answer in time when I'm available.</p>
 
 ---
 
