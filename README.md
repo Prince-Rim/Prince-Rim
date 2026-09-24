@@ -34,10 +34,10 @@
 
 ### Stats & Social
 <p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Prince-Rim&theme=tokyonight" height="150" alt="GitHub Streak" />
+    <br/><br/>
   <img src="https://img.shields.io/github/followers/Prince-Rim?label=Followers&style=for-the-badge&color=FF2D20&logo=github" height="35" />
   <img src="https://img.shields.io/github/stars/Prince-Rim?label=Stars&style=for-the-badge&color=512BD4&logo=github" height="35" />
-  <br/><br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Prince-Rim&theme=tokyonight" height="150" alt="GitHub Streak" />
 </p>
 
 ### Let's Collaborate!
