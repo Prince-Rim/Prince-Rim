@@ -47,7 +47,7 @@
 <a href="https://justinallenazucena.vercel.app/" target="blank"><img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=safari&logoColor=white" alt="Portfolio" /></a>
 </p>
   
-<p align="center">PS: Inquiries and questions are always welcome, I'll try my best to answer in time when I'm available. You can also view my projects, and certificates on my portfolio under, just click the link under or in my profile links.</p>
+<p align="center">PS: Inquiries and questions are always welcome, I'll try my best to answer in time when I'm available. You can also view my projects, and certificates on my portfolio under, just click the link on top or in my profile links.</p>
 
 ---
 
