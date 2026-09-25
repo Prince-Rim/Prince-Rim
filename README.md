@@ -1,4 +1,4 @@
-<p align="center"> <img src="./hello-world-header1.svg " width="100%" alt="Hello World Header" /> </p> <p align="center"> <img src="./azucena2-svg.svg" width="100%" alt="Header" /> </p> <p align="left"> <a href="https://github.com/Prince-Rim"> <img src="./typing-cursor.svg" width="530" alt="Typing SVG" /> </a> </p>
+<p align="center"> <img src="./hello-world-header.svg " width="100%" alt="Hello World Header" /> </p> <p align="center"> <img src="./azucena2-svg.svg" width="100%" alt="Header" /> </p> <p align="left"> <a href="https://github.com/Prince-Rim"> <img src="./typing-cursor.svg" width="530" alt="Typing SVG" /> </a> </p>
 
 ---
 <p align="center">
