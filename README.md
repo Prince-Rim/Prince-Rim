@@ -1,4 +1,16 @@
 <p align="center">
+  <img src="./azucena2-svg.svg" width="100%" alt="Header" />
+</p>
+
+<p align="left">
+  <a href="https://github.com/Prince-Rim">
+    <img src="./typing-cursor.svg" width="530" alt="Typing SVG" />
+  </a>
+</p>
+
+---
+
+<p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,nodejs,java,cs,dotnet,laravel,python&theme=dark" />
   <br/>
   <img src="https://skillicons.dev/icons?i=postgres,mysql,postman,docker,git,github,vscode,visualstudio,wordpress&theme=dark" />
