@@ -28,7 +28,7 @@
 ### Current Focus & Interests
 
 * Cybersecurity: Learning deep dive attack classifications, vulnerabilities, and digital defense.
-* Literature: Avid reader of webnovels, light novels, and manhwa. Interested in talking in related series, recommendations are good too.
+* Literature: Avid reader of webnovels, light novels, and manhwa. Interested in talking in related series, recommendations are good too!.
 
 ---
 
